@@ -4,13 +4,9 @@
 <h3 align="center">An inquisitive creator from NJ</h3>
 <img align="right" alt="Coding" width="300" height="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
-- 🔭 I’m currently working on **GR8 Chat Bot, Rubin ETF & Visualize Stock Financials**
-
 - 🌱 I’m currently learning **Finance, Data Science and AI**
 
 - 📫 How to reach me **jaymvannelli@gmail.com**
-
-- ⚡ Fun fact **I have a sneaker collection and love space**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
